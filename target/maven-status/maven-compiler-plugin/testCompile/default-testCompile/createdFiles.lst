@@ -1,0 +1,4 @@
+com/intercom/demo/test/AllTests.class
+com/intercom/demo/test/ObjectReaderTest.class
+com/intercom/demo/test/InviteCustomerTest.class
+com/intercom/demo/test/DistanceCalculatorTest.class
