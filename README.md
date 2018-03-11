@@ -24,7 +24,8 @@ To configure, the source & file location go to /src/main/resources
 
 Test classes are included in /src/test folder. 
 
-2. Proudest Acheivement
+2. Proudest Acheivement:
+
      A few years back i was working in a big MNC with decent pay , in a large team. However after 2 years of working there - i realized
      that there was nothing challening about being in my comfort zone . In the meantime a bunch of my old college folks were trying to
      revamp a start up that went bankrupt a few years back. The company did not have an entity registered in Singpore - they were still looking 
